@@ -2,11 +2,17 @@
 	width:1080px;
 	margin: 0 auto;
 }
-
-
-
-
-
+.fl {
+	float:left;
+	margin: 10px 10px 0px 0px;
+}
+.fr {
+	float:right;
+	margin: 10px 0px 0px 10px;
+}
+.cl {
+	clear:both;
+}
 
 
 
